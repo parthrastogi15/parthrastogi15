@@ -24,7 +24,6 @@ I'm a C++ engineer who builds **low-latency trading infrastructure** for a propr
 - ⚡ Hot paths tuned to **sub-microsecond** latency; kernel-bypass TCP/UDP on **ExaNIC / FPGA** (TCP send ~400ns → ~100ns p99)
 - 📈 Multi-venue **OMS**, **market data** feed handlers, normalisation and smart routing
 - 🛠️ Colo bring-up: bare-metal provisioning, kernel/NIC tuning, profiling and jitter hunting
-- 🎓 B.Tech CSE, Manipal University Jaipur — 9.34 CGPA, TMA Pai Scholar
 
 ### 💼 What I work on
 
