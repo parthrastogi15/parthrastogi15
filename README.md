@@ -21,7 +21,7 @@
 
 I'm a C++ engineer who builds **low-latency trading infrastructure** for a proprietary trading firm — order management systems, market data handlers and exchange connectivity across Indian, Korean, US and crypto venues.
 
-- ⚡ Hot paths tuned to **sub-microsecond** latency; kernel-bypass TCP/UDP on **ExaNIC / FPGA** (TCP send ~400ns → ~100ns p99)
+- ⚡ Latency-critical hot paths; kernel-bypass TCP/UDP on **ExaNIC / FPGA**
 - 📈 Multi-venue **OMS**, **market data** feed handlers, normalisation and smart routing
 - 🛠️ Colo bring-up: bare-metal provisioning, kernel/NIC tuning, profiling and jitter hunting
 
