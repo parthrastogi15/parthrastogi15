@@ -5,14 +5,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=640&lines=Sub-microsecond+hot+paths+in+modern+C%2B%2B;Order+management+%26+market+data+systems;FPGA+%2F+ExaNIC+%2F+kernel-bypass+networking;Open+for+freelance+C%2B%2B+%26+performance+work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=640&lines=Sub-microsecond+hot+paths+in+modern+C%2B%2B;Order+management+%26+market+data+systems;FPGA+%2F+ExaNIC+%2F+kernel-bypass+networking" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parthrastogi15"><img src="https://img.shields.io/badge/LinkedIn-parthrastogi15-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:parthrastogi15@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20freelance-2ea043?style=for-the-badge" alt="Available for freelance" />
+  <a href="mailto:parthrastogi15@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=parthrastogi15&style=for-the-badge&color=70a5fd&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -27,7 +26,7 @@ I'm a C++ engineer who builds **low-latency trading infrastructure** for a propr
 - 🛠️ Colo bring-up: bare-metal provisioning, kernel/NIC tuning, profiling and jitter hunting
 - 🎓 B.Tech CSE, Manipal University Jaipur — 9.34 CGPA, TMA Pai Scholar
 
-### 💼 What I can help you with
+### 💼 What I work on
 
 | Service | Typical work |
 | --- | --- |
@@ -37,7 +36,7 @@ I'm a C++ engineer who builds **low-latency trading infrastructure** for a propr
 | **Linux systems** | Multithreading, CPU pinning/isolation, NIC & kernel tuning, drivers, CI/CD for C++ |
 | **Code review & modernisation** | Legacy C++ → C++17/20, build systems (CMake), test & benchmark harnesses |
 
-📬 **Have a project?** Reach out on [LinkedIn](https://www.linkedin.com/in/parthrastogi15) or [email](mailto:parthrastogi15@gmail.com).
+📬 Get in touch on [LinkedIn](https://www.linkedin.com/in/parthrastogi15) or [email](mailto:parthrastogi15@gmail.com).
 
 ### 🧰 Tech stack
 
