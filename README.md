@@ -77,14 +77,6 @@ I'm a C++ engineer who builds **low-latency trading infrastructure** for a propr
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthrastogi15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthrastogi15&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthrastogi15/parthrastogi15/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/parthrastogi15/parthrastogi15/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
