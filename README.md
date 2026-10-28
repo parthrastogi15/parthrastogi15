@@ -54,17 +54,6 @@ I'm a C++ engineer who builds **low-latency trading infrastructure** for a propr
   <img src="https://img.shields.io/badge/Google%20Benchmark-555?style=flat-square" />
 </p>
 
-### 🚀 Featured projects
-
-> 🚧 Open-source low-latency C++ projects are being published here — check back soon.
-
-<!-- Replace the placeholders below with real pinned repos as they go public:
-<p align="center">
-  <a href="https://github.com/parthrastogi15/REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthrastogi15&repo=REPO&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/parthrastogi15/REPO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parthrastogi15&repo=REPO2&theme=tokyonight&hide_border=true" /></a>
-</p>
--->
-
 ### 📊 GitHub stats
 
 <p align="center">
@@ -74,13 +63,6 @@ I'm a C++ engineer who builds **low-latency trading infrastructure** for a propr
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=parthrastogi15&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthrastogi15/parthrastogi15/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/parthrastogi15/parthrastogi15/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-  </picture>
 </p>
 
 <p align="center">
