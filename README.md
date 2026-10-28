@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=640&lines=Sub-microsecond+hot+paths+in+modern+C%2B%2B;Order+management+%26+market+data+systems;FPGA+%2F+ExaNIC+%2F+kernel-bypass+networking" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=640&lines=Order+management+%26+market+data+systems;FPGA+%2F+ExaNIC+%2F+kernel-bypass+networking" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,8 +34,6 @@ I'm a C++ engineer who builds **low-latency trading infrastructure** for a propr
 | **Low-latency networking** | Kernel-bypass (ExaNIC, Solarflare/OpenOnload), custom TCP/UDP, packet capture & replay |
 | **Linux systems** | Multithreading, CPU pinning/isolation, NIC & kernel tuning, drivers, CI/CD for C++ |
 | **Code review & modernisation** | Legacy C++ → C++17/20, build systems (CMake), test & benchmark harnesses |
-
-📬 Get in touch on [LinkedIn](https://www.linkedin.com/in/parthrastogi15) or [email](mailto:parthrastogi15@gmail.com).
 
 ### 🧰 Tech stack
 
