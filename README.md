@@ -44,7 +44,7 @@ I'm a C++ engineer who builds **low-latency trading infrastructure** for a propr
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B14%2F17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Lock--free-555?style=flat-square" />
   <img src="https://img.shields.io/badge/ExaNIC-555?style=flat-square" />
   <img src="https://img.shields.io/badge/Solarflare-555?style=flat-square" />
